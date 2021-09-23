@@ -1,5 +1,6 @@
 # GzPL
 Gz Public License
+
 Gz 开源协议
 
 for person and small company, this license equal to wtfpl.
