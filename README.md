@@ -1,0 +1,2 @@
+# GzPL
+Gz Public License
